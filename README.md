@@ -14,33 +14,34 @@ Hi! I'm Ethan, a recent Computer Science & AI graduate, passionate about buildin
 
 ### 🛠 Technical Skills
 
-**Languages**  
-Python 🐍 | Kotlin ⚡ | Java ☕ | SQL 🗃️
+**Languages ⚡**  
+Python | JavaScript | Java | SQL
 
-**Frontend**  
-Jetpack Compose 🎨, React Native 📱, Angular 🔺
+**Frontend 🎨**  
+Vue.js, React Native, Angular
 
-**Backend**  
-Node.js 🟢, FastAPI 🚀, Spring Boot 🌿
+**Backend 🚀**  
+Node.js, FastAPI, Spring Boot
 
-**Databases & Auth**  
-PostgreSQL 🐘, Supabase 🔐
+**Databases & Auth 🔐**  
+PostgreSQL, MySQL 
 
-**Dev Tools**  
-Git & GitHub 🧰, Docker 🐳, Postman 📬
+**Dev Tools 🧰**  
+Git & GitHub, Docker, Postman
 
-**AI Tools**  
-PyTorch 🔥, LangChain 🧠, LangGraph 🌐
+**AI Tools 🧠**  
+PyTorch, Scikit-Learn 
 
 ### 🚀 Projects
 
 **Jason Extension @ NMAI Lab**  
 Worked on extending Jason agents for multi-agent reasoning and planning 🕹️.
+Repositories: 
+  - [Epistemic-Jason](https://github.com/NMAI-lab/epistemic-jason)
 
 **AI Planning & Simulation Projects**  
 - Multi-agent planning frameworks using DEL-Agentspeak and ATL 🧩  
 - Simulation of decision-making under uncertainty 🎲  
-- Python & PyTorch implementations 🐍🔥
 
 ### 🎯 What’s Next?
 
