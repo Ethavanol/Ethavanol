@@ -38,6 +38,7 @@ PyTorch, Scikit-Learn
 Worked on extending Jason agents for multi-agent reasoning and planning 🕹️.
 Repositories: 
   - [Epistemic-Jason : A Jason extension enabling agents to use possible-worlds semantics](https://github.com/NMAI-lab/epistemic-jason)
+  - [Localization-demo : A case study of how an agent can use this extension to reason under uncertainty](https://github.com/NMAI-lab/localization-demo)
 
 **Research Publication: "Selecting the most specific plan in AgentSpeak porograms"**
 Function helping agents choose the most suitable plan based on context logic.
