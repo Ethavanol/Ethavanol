@@ -37,7 +37,13 @@ PyTorch, Scikit-Learn
 **Jason Extension @ NMAI Lab**  
 Worked on extending Jason agents for multi-agent reasoning and planning 🕹️.
 Repositories: 
-  - [Epistemic-Jason](https://github.com/NMAI-lab/epistemic-jason)
+  - [Epistemic-Jason : A Jason extension enabling agents to use possible-worlds semantics](https://github.com/NMAI-lab/epistemic-jason)
+
+**Research Publication: "Selecting the most specific plan in AgentSpeak porograms"**
+Function helping agents choose the most suitable plan based on context logic.
+Paper presenting it published in ECAI 2025 11th WorkShop : AREA 2025.  
+Repository :
+  - [Plan Selection Function](https://github.com/NMAI-lab/specific-option-selection)  
 
 **AI Planning & Simulation Projects**  
 - Multi-agent planning frameworks using DEL-Agentspeak and ATL 🧩  
@@ -51,4 +57,4 @@ Excited to contribute to innovative projects and collaborate with like-minded en
 ### 📫 How to Reach Me
 
 📧 Email: ethan.ltg@protonmail.com 
-🔗 LinkedIn: [linkedin.com/in/ethan-ai](https://www.linkedin.com/in/ethan-le-trung-967445383/)
+🔗 LinkedIn: https://www.linkedin.com/in/ethan-le-trung-967445383/
